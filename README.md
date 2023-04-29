@@ -1,7 +1,7 @@
 # Person Re-identification in Presence of Occlusion
 
 This is the official repository of our paper: Code will be released after paper acceptance.
-#### Submitted in IEEE Transactions on Circuits and Systems for Video Technology Journal (IEEE-TCSVT)
+####
 
 ### Overview:
 <img src="Results/overview.png" width="900"/>
