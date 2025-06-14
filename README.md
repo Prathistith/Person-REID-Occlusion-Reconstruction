@@ -1,6 +1,8 @@
 # Person Re-identification in Presence of Occlusion
 
-This is the official repository of our paper: Code will be released after paper acceptance.
+https://link.springer.com/article/10.1007/s11042-023-15322-z
+
+
 ####
 
 ### Overview:
